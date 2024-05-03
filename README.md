@@ -22,4 +22,4 @@ Here are some of the tools and technologies that I have used and learned:
 * Visual Basic
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivabajelan_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivabajelan progress=true)
