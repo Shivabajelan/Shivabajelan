@@ -1,16 +1,22 @@
-### Hi there 👋
+###  Hello and welcome to my GitHub page! 👋
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)
+<img src="[image_url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)"  style="width:500px;">
+* 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
+* 🌱 I’m currently learning more about Machine Learning.
+* 📫 How to reach me: You can shoot me an email at shiva.bajalan@gmail.com.
+* 😄 Pronouns: Her/Hers.
+* ⚡ Fun fact: Aside from my passion for data, I find joy camping and traveling. There's something truly magical about immersing oneself in nature's beauty, whether it's pitching a tent under the stars or embarking on an adventure to explore new landscapes. 
+# 🚀  Some Tools I Have Used and Learned
+Here are some of the tools and technologies that I have used and learned:
 
-<!--
-**Shivabajelan/Shivabajelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* PostgreSQL
+* MongoDB
+* Tableau
+* Supervised machine learning
+* Unsupervised machine learning
+* Java Script
+* HTML/CSS
+* Excel
+* Visual Basic
