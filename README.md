@@ -1,4 +1,4 @@
-###  Hello and welcome to my GitHub page! 👋
+#  Hello and welcome to my GitHub page! 👋
 ![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)
 <img src="[image_url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHjgJ9F0mhIjzhTkUYVTkyaaRr-2EJkMLIw&s)"  style="width:500px;">
 * 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
