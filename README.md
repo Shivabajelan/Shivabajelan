@@ -22,4 +22,6 @@ Here are some of the tools and technologies that I have used and learned:
 * Visual Basic
 
 [![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivabajelan)](https://github.com/Shivabajelan/github-readme-stats)
+[![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivabajelan](https://github.com/Shivabajelan/github-readme-stats)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivabajelan)
