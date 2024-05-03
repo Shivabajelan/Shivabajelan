@@ -20,3 +20,6 @@ Here are some of the tools and technologies that I have used and learned:
 * HTML/CSS
 * Excel
 * Visual Basic
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivabajelan_progress=true)
