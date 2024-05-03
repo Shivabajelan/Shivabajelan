@@ -21,5 +21,6 @@ Here are some of the tools and technologies that I have used and learned:
 * Excel
 * Visual Basic
 
+[![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivabajelan](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivabajelan)
